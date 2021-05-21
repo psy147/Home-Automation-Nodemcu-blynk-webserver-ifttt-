@@ -4,9 +4,9 @@
 
 
 #define BLYNK_PRINT Serial
-#define ssid "FTTH-BSNL-Prakash"
-#define pass "1352972690"
-char auth[] = "shk0K1QOMhsKWmMufThPmnnTYH-9zYhj";
+#define ssid "****"
+#define pass "****"
+char auth[] = "*****";
 
 WiFiServer server(80);
 const int output0 = D3;
